@@ -1,0 +1,34 @@
+.title-bar{
+    margin-top: 2rem;
+    display: flex;
+    margin-bottom: 1.25rem;
+}
+
+#users-form input {
+    color: #374151;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+#users-form button {
+    color: #065f46;
+    background-color: #d6dad9;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+    border-width: 1;
+    border-color: #d6dad9;
+}
+.sort-select{
+    color: #374151;
+    border-radius: 0.25rem;
+}
+
+.users-title{
+    color: #065f46;
+    width: 100%;
+}
+#sort-label {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 0.25rem;
+}
